@@ -1,4 +1,4 @@
-                                                                 BreakingNews                                oct.24/2020
+ // @version 1.0.0                                                            BreakingNews                                oct.24/2020
 
 Tournament of Might
 Please review the schedule below to see when this Tournament of Might will start in your domain. 
