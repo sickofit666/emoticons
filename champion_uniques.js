@@ -190,7 +190,7 @@ UniqueItems["28674"] = {Id:28674,Name:"Chain Helm", Effects:[{type:206,tier:2},{
 UniqueItems["28675"] = {Id:28675,Name:"Cross Shield Pendant", Effects:[{type:206,tier:2},{type:201,tier:4},{type:1,tier:2},{type:201,tier:5},{type:206,tier:3}],Faction:1,Type:8,Set:0};
 UniqueItems["28676"] = {Id:28676,Name:"Heavy Metal Armor", Effects:[{type:201,tier:6},{type:229,tier:3},{type:209,tier:3},{type:209,tier:3},{type:229,tier:3}],Faction:1,Type:2,Set:0};
 UniqueItems["28678"] = {Id:28678,Name:"Vesper's Ring", Effects:[{type:321,tier:1},{type:221,tier:4},{type:206,tier:5},{type:207,tier:6},{type:204,tier:6}],Faction:1,Type:6,Set:32};
-UniqueItems["28679"] = {Id:28679,Name:"Vesperâ€™s Medal", Effects:[{type:201,tier:6},{type:203,tier:5},{type:21,tier:3},{type:222,tier:3},{type:207,tier:5}],Faction:1,Type:8,Set:32};
+UniqueItems["28679"] = {Id:28679,Name:"Vesper’s Medal", Effects:[{type:201,tier:6},{type:203,tier:5},{type:21,tier:3},{type:222,tier:3},{type:207,tier:5}],Faction:1,Type:8,Set:32};
 UniqueItems["28680"] = {Id:28680,Name:"Grim Shield", Effects:[{type:225,tier:4},{type:205,tier:5},{type:201,tier:9},{type:206,tier:5},{type:201,tier:9}],Faction:1,Type:5,Set:0};
 UniqueItems["28677"] = {Id:28677,Name:"Wildhide Ring", Effects:[{type:319,tier:1},{type:130,tier:3},{type:221,tier:5},{type:203,tier:6},{type:208,tier:6}],Faction:3,Type:6,Set:30};
 UniqueItems["28147"] = {Id:28147,Name:"Silver Dagger", Effects:[{type:17,tier:3},{type:224,tier:4},{type:201,tier:8},{type:207,tier:5},{type:201,tier:8}],Faction:1,Type:1,Set:33};
@@ -219,6 +219,8 @@ UniqueItems["28696"] = {Id:28696,Name:"Warlock's Aura", Effects:[{type:205,tier:
 UniqueItems["28688"] = {Id:28688,Name:"Warlock's Pipe", Effects:[{type:323,tier:1},{type:225,tier:4},{type:226,tier:4},{type:229,tier:3},{type:17,tier:3}],Faction:3,Type:6,Set:34};
 UniqueItems["28689"] = {Id:28689,Name:"Warlock's Ring", Effects:[{type:323,tier:1},{type:20,tier:3},{type:203,tier:5},{type:226,tier:4},{type:205,tier:6}],Faction:3,Type:6,Set:34};
 UniqueItems["28697"] = {Id:28697,Name:"Taygar Pendant", Effects:[{type:205,tier:6},{type:205,tier:6},{type:201,tier:9},{type:206,tier:6},{type:206,tier:6}],Faction:1,Type:8,Set:0};
+UniqueItems["28698"] = {Id:28698,Name:"Shield of Argus", Effects:[{type:229,tier:3},{type:204,tier:5},{type:204,tier:5},{type:225,tier:3},{type:226,tier:3}],Faction:2,Type:5,Set:0};
+UniqueItems["28699"] = {Id:28699,Name:"Shield of Brontes", Effects:[{type:229,tier:4},{type:204,tier:6},{type:204,tier:6},{type:225,tier:4},{type:226,tier:4}],Faction:2,Type:5,Set:0};
 
 // these are throne uniques with non-bright jewels...
 
