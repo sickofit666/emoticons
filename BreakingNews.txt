@@ -1,8 +1,37 @@
-                                                                BreakingNews
+                                                                                       BreakingNews
 
-===========================================================================================================================================================================================================
+==================================================================================================================================================================================================================
+Nov.24/2020
+Login Event
+Hear ye, Hear ye
+Lords and Ladies,
+As a part of the “Blessed Thanksgiving” event, King Arthur has decided to reward his citizens by conducting a daily login event where the worthy will be able to win amazing rewards by logging in everyday.
+5 days login rewards -
+Gems - 25
+Advanced Training Credentials - 1000 qty
+Hussar - 300k
+Battering Ram - 300k
+7 days login rewards -
+Gems - 50
+Advanced Training Credentials - 1500 qty
+Hussar - 600k
+Battering Ram - 600k
+Arcane Temple Expansion +7 - qty 1
+9 days login rewards -
+Gems - 75
+Advanced Training Credentials - 2000 qty
+Wolf Helm
+Hussar - 1mil
+Battering Ram - 1mil
+Arcane Temple Expansion +7 - qty 3
+The login event will be active during Nov 23 12.00 AM - Dec 1 11.59 PM
+Note:
+This login event is not a consecutive login event, meaning all login days will be considered between 23rd Nov and 1st Dec.
+The rewards will be granted within a week after the completion of the login event.
+Team KoC
 
-Nox.19/2020
+============================================================================================================================================================================================================
+Nov.19/2020
 Chiaki Schedule!!!
 For King Arthur and Camelot
 As Chiaki brings darkness and war to the land of Camelot,
@@ -21,7 +50,7 @@ Nov 22nd:
 Domain: 464,465,469
 
 
-===========================================================================================================================================================================================================
+============================================================================================================================================================================================================
 Nox.3/2020
 
 New nomads schedule
@@ -40,5 +69,5 @@ Domains: 471,468,465
 
 
 
-===========================================================================================================================================================================================================
+============================================================================================================================================================================================================
 
